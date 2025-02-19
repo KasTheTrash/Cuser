@@ -72,9 +72,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+Feel free to use, modify and changes everything in this repository!!!
 
 ## Author
-[Your Name]
+[kasTheTrash]
 
 ## Acknowledgments
 - Icons and assets designed for Cuser
