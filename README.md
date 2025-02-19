@@ -77,6 +77,9 @@ Feel free to use, modify and changes everything in this repository!!!
 ## Author
 [kasTheTrash]
 
+## Remarks
+Many changes and upgrades are coming in soon!!!
+
 ## Acknowledgments
 - Icons and assets designed for Cuser
 - Built with security and user experience in mind
