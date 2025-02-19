@@ -46,7 +46,7 @@ User: postgres
 ## Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/cuser.git
+   git clone https://github.com/KasTheTrash/cuser.git
    ```
 
 2. Install required packages
